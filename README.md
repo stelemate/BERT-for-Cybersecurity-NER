@@ -13,7 +13,7 @@ A task to identify entities with specific meanings in the text, including names 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2">
+      <td rowspan="1">
         <p>
           <strong>Metric</strong>
           <br></p>
