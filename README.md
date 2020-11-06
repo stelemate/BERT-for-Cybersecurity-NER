@@ -1,7 +1,7 @@
 # BERT-for-Cybersecurity-NER
 An implementation of BERT for cybersecurity named entity recognition
 
-***** New November 5th, 2020: Named Entity Recognition Models *****
+<strong>***** New November 5th, 2020: Named Entity Recognition Models *****</strong>
 ## Introduction
 We design a few joint BERT models for cybersecurity named entity recognition. The BERT pretraining model is described in [google-research](https://github.com/google-research/bert).
 These models are suitable for Chinese and English combined data, but other languages need to modify the DataProcessor code
