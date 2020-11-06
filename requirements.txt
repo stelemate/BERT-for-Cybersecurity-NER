@@ -1,0 +1,4 @@
+tensorflow >= 1.13.0   # CPU Version of TensorFlow.
+tensorflow < 2.0.0
+# tensorflow-gpu  >= 1.13.0  # GPU version of TensorFlow.
+tensorboard >= 2.1.0  #  no need if you don't want to use it
