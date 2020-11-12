@@ -2,7 +2,7 @@
 
 """
 bert-idcnn-crf layer
-@Author:Macan
+@Author:Chekecheke
 """
 
 import tensorflow as tf
